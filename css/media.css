@@ -1,0 +1,565 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*    header start here*/
+    .menu ul li a {
+   display: inline-block;
+}
+    .menu ul li a {
+    margin-left: -16px;
+}
+    .logo {
+    width: 150px;
+}
+
+    .btn-user, .btn-search{
+    padding: 0px;
+}
+    .user-dropdown {
+    top: 18px;
+    left: 61px;
+}
+    .search-dropdown {
+    top: 33px;
+    left: 1px;
+    min-width: 278px;
+}
+/*    header end here*/
+/*    banner start here*/
+    .banner{
+    background:none;
+    background-color: white;
+    }
+    .banner-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+    .banner-content h1 {
+    font-size: 30px;
+}
+    
+    .scroll p {
+    font-size: 16px;
+}
+/*    banner end here*/
+/*    kid start here*/
+    .kid1 {
+    padding: 30px 0px;
+}
+    .kid-title h1 {
+    font-size: 27px;
+}
+    .kid-text hr {
+    width: 130px;
+}
+    .discover {
+    width: 150px;
+    margin-bottom: 20px;
+}
+/*    kid end here*/
+/*    section teacher start here*/
+        .teacher{
+        padding: 40px;
+    }
+    .teacher-text {
+    margin-bottom: 10px;
+}
+   .t-content {
+    margin-top: 20px;
+}
+.teacher-text h1 {
+    font-size: 24px;
+}
+.border-t {
+    width: 160px;
+}
+    .edu-content h2 {
+    font-size: 21px;
+}
+    .edu-info {
+    margin-top: 20px;
+}
+
+
+/*    section teacher end here*/
+/*    course start here*/
+    .course {
+    padding: 25px 0px;
+}
+    .course-title h1 {
+    font-size: 22px;
+}
+    .card {
+    margin-top: 20px;
+}
+/*    course end here*/
+/*    care start here*/
+    .care {
+    padding: 30px 0px;
+}
+    .care-content {
+    margin-bottom: 10px;
+}
+    .care-content h1 {
+    font-size: 22px;
+}
+    .care-dashed {
+    width: 145px;
+}
+    .care-item {
+    margin-top: 20px;
+}
+    .care-btn {
+    margin-top: 40px;
+    width: 155px;
+}
+/*    care end here*/
+    
+    
+/*    we care start here*/
+    .we-care, .program{
+    padding: 40px 0px;
+}
+    .twitter-content i {
+    font-size: 48px;
+}
+    .twitter-content p {
+    line-height: 25px;
+    margin: 15px 0px;
+}
+    .we-care-title h1{
+        font-size: 25px;
+    }
+    .teachers-content{
+    margin-top: 30px;
+}
+/*    we care end here*/
+    
+/*    programs start here*/
+    .program-img {
+    width: 160px;
+}
+/*    programs end here*/
+    
+    
+/*    timeline start here*/
+    .timeline {
+    padding: 40px 0px;
+}
+    .title {
+     text-align: center;
+    margin-bottom: 0px;
+}
+    .title-img{
+    width: 190px;
+}
+    .date {
+    min-height: 70px;
+    width: 70px;
+   margin: 0 auto;
+
+}
+    .date h4 {
+    font-size: 30px;
+}
+    .date p {
+    font-size: 16px;
+}
+    .arts {
+    text-align: center;
+}
+/*    timeline end here*/
+    
+    /*    newslter start here*/
+        .social-info {
+            background-image: none;
+    background-color:white;
+    padding: 0px 0px;
+}
+.social-item {
+    margin-top: 40px;
+}
+    .newsleter {
+    margin-top: 0px;
+}
+    .newsleter {
+        text-align: center;
+    }
+/*    newslter end here*/
+    
+/*    footer start here*/
+    .footer-menu li {
+
+    font-size: 16px;
+    padding: 10px 0px;
+    margin-top: 0px;
+}
+/*    footer end here*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*    header start here*/
+    .menu ul li a {
+    display: inline-block;
+    /* text-align: center; */
+}
+    .user-dropdown {
+    top: 13px;
+    left: 60px;
+}
+    .search-dropdown {
+    top: 45px;
+    left: 32px;
+}
+/*    header end here*/
+/*    banner start here*/
+.banner-content {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+    .banner-content h1 {
+    font-size: 40px;
+}
+    .scroll {
+    top: 70px;
+}
+/*    banner end here*/
+/*    kid start here*/
+    .kid1{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    .kid-title h1 {
+    font-size: 27px;
+}
+    .kid-text h2 {
+    font-size: 22px;
+}
+.kid-text hr {
+    width: 119px;
+}
+
+
+    .kid-text p {
+    line-height: 24px;
+}
+    .kid-img {
+    margin-top: 50px;
+}
+    .discover {
+    width: 150px;
+}
+/*    kid end here*/
+    
+/*    section teacher start here*/
+    .teacher{
+        padding: 50px;
+    }
+  .teacher-text h1 {
+    font-size: 27px;
+}
+    .border-t {
+    width: 197px;
+}
+.edu-info {
+    margin-top: 20px;
+}
+    .edu-content h2 {
+    font-size: 22px;
+}
+/*    section teacher end here*/
+/*    course start here*/
+    .course {
+    padding: 40px 0px;
+}
+    .course-title h1 {
+    font-size: 26px;
+}
+    .card {
+    margin-top: 30px;
+}
+/*    course end here*/
+/*    care start here*/
+    .care {
+    padding: 50px 0px;
+}
+    .care-content {
+    margin-bottom: 20px;
+}
+    .care-btn {
+    margin-top: 50px;
+    width: 175px;
+}
+/*    care end here*/
+    
+/*    we-care start here*/
+    .we-care,  .program {
+    padding: 60px 0px;
+}
+    .twitter-content i {
+    font-size: 50px;
+}
+    .twitter-content p {
+    line-height: 27px;
+    margin: 15px 0px;
+}
+.we-care-title {
+    margin-top: 30px;
+}
+    .teachers-content p {
+    line-height: 23px;
+}
+/*    we-care end here*/
+    
+    
+/*    program start here*/
+    .program-img {
+    width: 150px;
+}
+/*    program end here*/
+/*    timeline start here*/
+    .timeline {
+    padding: 50px 0px;
+}
+    .date h4 {
+    font-size: 38px;
+}
+    .date p {
+    font-size: 16px;
+}
+    .title {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+/*    timeline end here*/
+/*    newslter start here*/
+        .social-info {
+            background-image: none;
+    background-color:white;
+    padding: 0px 0px;
+}
+.social-item {
+    margin-top: 40px;
+    text-align: center;
+}
+    .newsleter {
+    margin-top: 0px;
+}
+    .newsleter {
+        text-align: center;
+    }
+/*    newslter end here*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*    header start here*/
+    .menu ul li a {
+    display: inline-block;
+}
+    .user-dropdown {
+    top: 13px;
+    left:63px;
+}
+    .search-dropdown {
+    top: 44px;
+    left: 35px;
+}
+/*    header end here*/
+/*    banner start here*/
+    .banner-content {
+    margin-top: 110px;
+    margin-bottom: 120px;
+}
+    .banner-content h1 {
+    font-size: 38px;
+}
+.scroll {
+    top: 60px;
+}
+/*    banner end here*/
+    
+/*    kid start here*/
+.kid-title {
+    margin-bottom: 40px;
+    padding-top: 20px;
+}
+    .kid-title h1, .teacher-text h1 {
+    font-size: 25px;
+}
+    .kid-text hr {
+    width: 129px;
+}
+    .kid-text p {
+    line-height: 25px;
+}
+    .kid-img {
+    margin-top: 36px;
+}
+/*    kid end here*/
+    
+/*    section teacher start here*/
+    .teacher{
+        padding: 60px 0px;
+    }
+    .border-t {
+    width: 200px;
+}
+    .edu-content h2 {
+    font-size: 20px;
+}
+
+/*    section teacher end here*/
+/*    course start here*/
+   .course {
+    padding: 50px 0px;
+}
+    .course-title h1 {
+    font-size: 28px;
+}
+    .card {
+    margin-top: 35px;
+}
+/*    course end here*/
+/*    care start here*/
+        
+.care {
+    padding: 60px 0px;
+}
+    .care-content h1 {
+    font-size: 24px;
+}
+    .care-content {
+    margin-bottom: 20px;
+}
+    .care-dashed {
+    width: 175px;
+}
+.care-btn {
+    margin-top: 60px;
+    width: 185px;
+}
+/*    care end here*/
+    
+    
+/*    we care start here*/
+    .we-care, .program {
+    padding: 60px 0px;
+}
+    .we-care-title {
+    margin-top: 40px;
+}
+.we-care-title h1 {
+    font-size: 26px;
+}
+    .we-care-img{
+    width: 220px;
+}
+    .twitter-content i {
+    font-size: 52px;
+    color: #1ec0ff;
+}
+    .twitter-content p {
+    line-height: 28px;
+    margin: 17px 0px;
+}
+/*    we care end here*/
+/*    program start here*/
+    .program-content h1 {
+    font-size: 26px;
+}
+    .program-item h2 {
+    font-size: 53px;
+}
+/*    program end here*/
+    
+/*    timeline start here*/
+    .timeline {
+    padding: 60px 0px;
+}
+    .date {
+    min-height: 65px;
+    width: 65px;
+}
+    .date h4 {
+    font-size: 28px;
+}
+    .arts h3 {
+    font-size: 20px;
+}
+    .date p {
+    font-size: 16px;
+}
+    .news-content h3 {
+    font-size: 22px;
+}
+    .arts span:nth-child(2) {
+ text-transform: capitalize; 
+    letter-spacing: 0px;
+}
+/*    timeline end here*/
+    
+/*    newsleter start here*/
+    .social-info {
+            background-image: none;
+    background-color:white;
+    padding: 0px 0px;
+}
+    
+.social-item {
+    margin-top: 40px;
+}
+.newsleter {
+    margin-top: 56px;
+}
+/*    newsleter end here*/
+    
+    
+/*    footer start here*/
+    .footer-menu li {
+    font-size: 17px;
+
+}
+/*    footer end here*/
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*    banner start here*/
+    .banner-content h1 {
+    font-size: 40px;
+
+}
+    .banner-content {
+    margin-top: 210px;
+    margin-bottom: 210px;
+}
+.scroll {
+    top: 40px;
+}
+/*    banner end here*/
+/*    teacher start here*/
+    .teacher {
+    padding: 60px 0px;
+}
+/*    teacher end here*/
+}
+/*newsleter start here*/
+.social-info {
+    padding: 0px 0px;
+}
+.newsleter {
+    margin-top: -16px;
+}
+
+
+
+/*newsleter end here*/
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    .newsleter {
+    margin-top: 229px;
+}
+
+}
